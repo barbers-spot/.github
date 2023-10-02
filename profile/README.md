@@ -1,6 +1,6 @@
-<p align="center"><img width="175px" height="auto" src="https://avatars.githubusercontent.com/u/101158455?s=200&v=4" height="175px"/></p>
+<p align="center"><img width="175px" height="auto" src="https://avatars.githubusercontent.com/u/146699999?s=200&v=4" height="175px"/></p>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Greysoft Incognito</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Barberz Spot</h1>
 
 
 ## 🙋‍♂️ Contribution guidelines
