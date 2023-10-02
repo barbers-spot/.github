@@ -2,6 +2,9 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Barberz Spot</h1>
 
+## 🙋‍♂️ About BarberzSpot
+
+BarberzSpot is a mobile application and platform that connects people with barbershops, allowing them to locate nearby barbershops, view ratings, book appointments, and make payments for services.
 
 ## 🙋‍♂️ Contribution guidelines
 
@@ -12,14 +15,6 @@
 - 📫 You can reachout to an admin if you need to be added as a member.
 
 - 🔭 Remember to hit the follow button.
-
-## 🚀 Other Resources:
-
-<p align="center">
-    <a href="https://github.com/greysoft-interns/" target="_blank"> <img width="55px" src="https://avatars.githubusercontent.com/u/142553142?s=200&v=4"/> </a>
-    <a href="https://github.com/greysoft-code-camp/" target="_blank"> <img width="55px" src="https://avatars.githubusercontent.com/u/101010522?s=200&v=4"/> </a>
-    <a href="https://github.com/Greysoft-Team/" target="_blank"> <img width="55px" src="https://avatars.githubusercontent.com/u/98347718?s=200&v=4"/> </a>
-</p>
 
 <a href="https://github.com/greysoft-incognito">
     <img src="https://komarev.com/ghpvc/?username=barbers-spot">
